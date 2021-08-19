@@ -1,0 +1,3 @@
+C:\Users\Haris\Documents\Visual Studio 2013\Projects\SUDOKU\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\Haris\Documents\Visual Studio 2013\Projects\SUDOKU\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Haris\Documents\Visual Studio 2013\Projects\SUDOKU\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
