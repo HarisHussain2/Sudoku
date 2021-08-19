@@ -1,2 +1,2 @@
 # Sudoku
-The sample codesare available in the "Sudoku_Samples.txt".
+The sample codes are available in the "Sudoku_Samples.txt".
